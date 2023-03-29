@@ -11,3 +11,10 @@ git push origin main
 ---------------------
 
 git clone <url>
+
+touch README
+git add README
+
+git add (all other files)
+git commit -m 'reinitialized files'
+git push origin master --force  #
